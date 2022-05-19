@@ -42,3 +42,8 @@ ol {
     position:absolute;
 
 }
+.btn:hover {
+    color: #a1e600;
+    background-color: #846996;
+    border-color: #ffbb004f;
+}
