@@ -20,4 +20,4 @@ I've proceed like a sort of die and retry.
 I've done it step by step with the bootstrap doc aside, when I wanted to improve or wasn't happy with the result I looked on other sites.
 
 ### The link
-Here you can have acces to my<a href="https://francoisvanh.github.io/restaurant-css-framework/" target="_blank">GitHub page</a>.
+Here you can have acces to my <a href="https://francoisvanh.github.io/restaurant-css-framework/" target="_blank">GitHub page</a>.
