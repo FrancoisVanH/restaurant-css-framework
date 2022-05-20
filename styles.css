@@ -6,7 +6,10 @@
     text-align: center;
 }
 body {
-    background-color: rgb(233, 242, 243);
+    
+background: -webkit-linear-gradient(171deg, rgb(212, 235, 213), rgb(232, 214, 214));
+background: linear-gradient(171deg, rgb(212, 235, 213), rgb(232, 214, 214));
+
 }
 .navbar {
     font-family: 'Comfortaa', cursive;
@@ -45,5 +48,4 @@ ol {
 .btn:hover {
     color: #a1e600;
     background-color: #846996;
-    border-color: #ffbb004f;
 }
